@@ -21728,7 +21728,7 @@ const uD = ({ name: J }) => /* @__PURE__ */ Pm.jsxs("h1", { children: [
   "!"
 ] });
 function oD() {
-  return /* @__PURE__ */ Pm.jsx(uD, { name: "Nicolasssssss" });
+  return /* @__PURE__ */ Pm.jsx(uD, { name: "sdfsdfsa" });
 }
 Gp.createRoot(document.getElementById("root")).render(
   /* @__PURE__ */ Pm.jsx(J_.StrictMode, { children: /* @__PURE__ */ Pm.jsx(oD, {}) })
